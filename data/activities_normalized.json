@@ -16157,5 +16157,18 @@
     "start_date_local": "2026-03-28T09:59:25Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-03-29",
+    "distance": 100421.0,
+    "elevation_gain": 908.0,
+    "id": "17899557255",
+    "moving_time": 14598.0,
+    "name": "A Foro c'era un lupo \ud83d\ude2e",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-03-29T08:24:17Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
