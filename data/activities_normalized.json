@@ -16190,10 +16190,23 @@
     "elevation_gain": 0.0,
     "id": "17947267397",
     "moving_time": 11245.0,
-    "name": "C-M7W8-SQ",
+    "name": "C-M7W8",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
     "start_date_local": "2026-04-02T07:05:07Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-03",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17959269658",
+    "moving_time": 14532.0,
+    "name": "D-M7W8",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-04-03T07:08:50Z",
     "type": "WeightTraining",
     "year": 2026
   }
