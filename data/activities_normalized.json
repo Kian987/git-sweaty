@@ -16209,5 +16209,18 @@
     "start_date_local": "2026-04-03T07:08:50Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-04-04",
+    "distance": 100290.0,
+    "elevation_gain": 901.0,
+    "id": "17973228143",
+    "moving_time": 14941.0,
+    "name": "Pedalata mattutina",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-04T08:25:34Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
