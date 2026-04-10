@@ -16248,5 +16248,18 @@
     "start_date_local": "2026-04-06T08:13:41Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-10",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18051112208",
+    "moving_time": 15768.0,
+    "name": "SBD",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-04-10T07:05:18Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
