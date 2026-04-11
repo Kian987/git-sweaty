@@ -16261,5 +16261,31 @@
     "start_date_local": "2026-04-10T07:05:18Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-04-11",
+    "distance": 100912.0,
+    "elevation_gain": 906.0,
+    "id": "18064246311",
+    "moving_time": 13727.0,
+    "name": "Forse duathlon nel pomeriggio \ud83d\ude02 \ud83d\udeb4\ud83c\udfc3",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-11T08:22:58Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-11",
+    "distance": 13002.9,
+    "elevation_gain": 62.0,
+    "id": "18068068023",
+    "moving_time": 4995.0,
+    "name": "Corsa pomeridiana",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-11T15:53:02Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
