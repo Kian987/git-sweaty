@@ -16326,5 +16326,44 @@
     "start_date_local": "2026-04-18T07:50:25Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-18",
+    "distance": 15025.3,
+    "elevation_gain": 58.0,
+    "id": "18160334891",
+    "moving_time": 6039.0,
+    "name": "\ud83d\udeb4\ud83c\udfc3\ud83d\udfe2\ud83d\udfe2",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-18T15:40:54Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-19",
+    "distance": 100274.0,
+    "elevation_gain": 900.0,
+    "id": "18170183245",
+    "moving_time": 13156.0,
+    "name": "\ud83d\udeb4\ud83c\udfc3\ud83d\udfe2\u26aa",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-19T08:21:17Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-19",
+    "distance": 10076.0,
+    "elevation_gain": 52.0,
+    "id": "18173862822",
+    "moving_time": 4243.0,
+    "name": "\ud83d\udeb4\ud83c\udfc3\ud83d\udfe2\ud83d\udfe2",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-19T15:54:04Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
