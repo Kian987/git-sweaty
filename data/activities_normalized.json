@@ -16398,10 +16398,23 @@
     "elevation_gain": 0.0,
     "id": "18223039354",
     "moving_time": 9355.0,
-    "name": "C-M7W9",
+    "name": "C-M7W9 - PR Panca Piana cos\u00ec, a caso \ud83e\udd28",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
     "start_date_local": "2026-04-23T07:09:25Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-24",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18236200748",
+    "moving_time": 14376.0,
+    "name": "D-M7W9",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-04-24T07:06:36Z",
     "type": "WeightTraining",
     "year": 2026
   }
