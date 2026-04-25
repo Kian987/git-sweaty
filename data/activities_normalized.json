@@ -16417,5 +16417,18 @@
     "start_date_local": "2026-04-24T07:06:36Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-04-25",
+    "distance": 127603.0,
+    "elevation_gain": 944.0,
+    "id": "18250393105",
+    "moving_time": 15549.0,
+    "name": "Fossacesia > Fara > Crampo \ud83e\udd14",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-25T08:12:34Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
