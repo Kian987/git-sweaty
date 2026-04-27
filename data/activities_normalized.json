@@ -16443,5 +16443,18 @@
     "start_date_local": "2026-04-26T08:09:03Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-27",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18275460111",
+    "moving_time": 10101.0,
+    "name": "A-M7W10 - PR Panca Piana \ud83e\udd72",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-04-27T07:21:21Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
