@@ -16547,5 +16547,18 @@
     "start_date_local": "2026-05-08T07:04:47Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-05-09",
+    "distance": 106165.0,
+    "elevation_gain": 894.0,
+    "id": "18436531765",
+    "moving_time": 14800.0,
+    "name": "Al 90\u00b0 km ormai il crampo \u00e8 omaggio della casa \ud83e\udd14",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-09T08:10:34Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
