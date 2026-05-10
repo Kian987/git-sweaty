@@ -16560,5 +16560,18 @@
     "start_date_local": "2026-05-09T08:10:34Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-10",
+    "distance": 100316.0,
+    "elevation_gain": 895.0,
+    "id": "18451252743",
+    "moving_time": 14782.0,
+    "name": "Forato \ud83d\ude24 (in ascensore) \ud83c\udf27\ufe0f poi \u2600\ufe0f e \ud83e\udd50",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-10T09:05:07Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
