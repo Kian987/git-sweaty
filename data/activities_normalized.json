@@ -16638,5 +16638,18 @@
     "start_date_local": "2026-05-16T08:41:26Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-17",
+    "distance": 100028.0,
+    "elevation_gain": 880.0,
+    "id": "18540927757",
+    "moving_time": 12629.0,
+    "name": "Pedalata mattutina",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-17T08:15:44Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
