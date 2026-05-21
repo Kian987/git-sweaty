@@ -16677,5 +16677,18 @@
     "start_date_local": "2026-05-19T07:00:52Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-05-21",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18591630722",
+    "moving_time": 7036.0,
+    "name": "C-M7W12 accorciato dannata influenza \ud83e\udd12",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-05-21T07:07:14Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
