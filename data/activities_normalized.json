@@ -16690,5 +16690,31 @@
     "start_date_local": "2026-05-21T07:07:14Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-05-23",
+    "distance": 153526.0,
+    "elevation_gain": 1120.0,
+    "id": "18620020634",
+    "moving_time": 19985.0,
+    "name": "2x Val di Foro - Record cornetti: 5",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-23T06:22:44Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-24",
+    "distance": 101966.0,
+    "elevation_gain": 884.0,
+    "id": "18633191251",
+    "moving_time": 14496.0,
+    "name": "Pedalata mattutina",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-24T08:05:38Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
