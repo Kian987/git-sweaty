@@ -16729,5 +16729,31 @@
     "start_date_local": "2026-05-25T07:20:34Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-05-26",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18657929657",
+    "moving_time": 10343.0,
+    "name": "B-M7W14",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-05-26T07:15:29Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-26",
+    "distance": 40505.2,
+    "elevation_gain": 77.0,
+    "id": "18664018110",
+    "moving_time": 6570.0,
+    "name": "Sfogliatella a Silvi \u2714\ufe0f",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-26T17:24:51Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
