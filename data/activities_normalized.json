@@ -16755,5 +16755,44 @@
     "start_date_local": "2026-05-26T17:24:51Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-27",
+    "distance": 100015.0,
+    "elevation_gain": 876.0,
+    "id": "18679177462",
+    "moving_time": 13638.0,
+    "name": "Kcal gratis: degustazione moscerini \ud83e\udeb0",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-27T16:38:38Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-28",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18685880724",
+    "moving_time": 10347.0,
+    "name": "C-M7W14",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-05-28T07:20:39Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-28",
+    "distance": 40906.9,
+    "elevation_gain": 58.0,
+    "id": "18691789778",
+    "moving_time": 6448.0,
+    "name": "Afternoon Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-28T17:10:51Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
