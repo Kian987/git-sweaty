@@ -16807,5 +16807,18 @@
     "start_date_local": "2026-05-29T06:54:45Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-05-31",
+    "distance": 125146.0,
+    "elevation_gain": 1015.0,
+    "id": "18728084040",
+    "moving_time": 17413.0,
+    "name": "Praia a Mare",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-31T08:28:12Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
