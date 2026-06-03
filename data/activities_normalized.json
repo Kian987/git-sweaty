@@ -16833,5 +16833,31 @@
     "start_date_local": "2026-06-01T15:52:38Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-03",
+    "distance": 61457.4,
+    "elevation_gain": 744.0,
+    "id": "18772629662",
+    "moving_time": 9656.0,
+    "name": "A caccia di un KOM (dei poveri) in Calabria \ud83d\ude02",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-03T15:33:38Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-03",
+    "distance": 1674.9,
+    "elevation_gain": 3.0,
+    "id": "18772818425",
+    "moving_time": 420.0,
+    "name": "Evening Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-03T19:07:20Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
