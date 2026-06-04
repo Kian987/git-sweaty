@@ -16840,7 +16840,7 @@
     "elevation_gain": 744.0,
     "id": "18772629662",
     "moving_time": 9656.0,
-    "name": "A caccia di un KOM (dei poveri) in Calabria \ud83d\ude02",
+    "name": "A caccia di un KOM tra 28% pendenza e fauna locale \ud83e\udd26\u200d\u2642\ufe0f",
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
     "start_date_local": "2026-06-03T15:33:38Z",
@@ -16857,6 +16857,19 @@
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
     "start_date_local": "2026-06-03T19:07:20Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-04",
+    "distance": 76001.3,
+    "elevation_gain": 667.0,
+    "id": "18786403970",
+    "moving_time": 9718.0,
+    "name": "Afternoon Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-04T15:48:34Z",
     "type": "Ride",
     "year": 2026
   }
