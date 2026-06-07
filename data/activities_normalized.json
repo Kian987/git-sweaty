@@ -16872,5 +16872,31 @@
     "start_date_local": "2026-06-04T15:48:34Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-05",
+    "distance": 56128.7,
+    "elevation_gain": 543.0,
+    "id": "18799386225",
+    "moving_time": 7628.0,
+    "name": "Afternoon Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-05T16:06:52Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-07",
+    "distance": 130721.0,
+    "elevation_gain": 1326.0,
+    "id": "18823077604",
+    "moving_time": 17176.0,
+    "name": "2x Bocca di Valle, Balzolo",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-07T08:11:43Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
