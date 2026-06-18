@@ -17002,5 +17002,31 @@
     "start_date_local": "2026-06-16T07:03:19Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-06-17",
+    "distance": 41046.5,
+    "elevation_gain": 476.0,
+    "id": "18961183614",
+    "moving_time": 5779.0,
+    "name": "\"Facciamo una passeggiata\" \ud83d\udc80 non per me",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-17T18:04:15Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-18",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18968284854",
+    "moving_time": 10435.0,
+    "name": "C-M7W16",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-06-18T06:49:20Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
