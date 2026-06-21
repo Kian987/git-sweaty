@@ -17054,5 +17054,18 @@
     "start_date_local": "2026-06-20T06:00:34Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-21",
+    "distance": 112294.0,
+    "elevation_gain": 1141.0,
+    "id": "19008475498",
+    "moving_time": 15932.0,
+    "name": "Celli pieni all'arancia \ud83d\udc4c",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-21T07:42:22Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
