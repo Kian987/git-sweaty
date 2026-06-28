@@ -17139,10 +17139,23 @@
     "elevation_gain": 855.0,
     "id": "19084077655",
     "moving_time": 14168.0,
-    "name": "Morning Ride",
+    "name": "17 di fila",
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
     "start_date_local": "2026-06-27T07:50:04Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-28",
+    "distance": 110027.0,
+    "elevation_gain": 1140.0,
+    "id": "19097046353",
+    "moving_time": 16740.0,
+    "name": "18 di fila",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-28T07:50:23Z",
     "type": "Ride",
     "year": 2026
   }
