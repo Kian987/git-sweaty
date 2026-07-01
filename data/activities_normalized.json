@@ -17184,5 +17184,18 @@
     "start_date_local": "2026-06-30T06:54:45Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-07-01",
+    "distance": 58815.0,
+    "elevation_gain": 241.0,
+    "id": "19133845127",
+    "moving_time": 8666.0,
+    "name": "21 (forato)",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-01T06:55:51Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
