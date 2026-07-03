@@ -17210,5 +17210,18 @@
     "start_date_local": "2026-07-02T06:57:48Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-07-03",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19160224792",
+    "moving_time": 10399.0,
+    "name": "D-M7W18 - 1RM Deadlift 150 kg \u2714\ufe0f",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-07-03T07:05:36Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
