@@ -17223,5 +17223,18 @@
     "start_date_local": "2026-07-03T07:05:36Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-07-04",
+    "distance": 111054.0,
+    "elevation_gain": 1158.0,
+    "id": "19174403287",
+    "moving_time": 16114.0,
+    "name": "24 di fila",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-04T07:48:26Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
