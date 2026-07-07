@@ -17262,5 +17262,18 @@
     "start_date_local": "2026-07-06T07:00:38Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-07-07",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19211967213",
+    "moving_time": 13097.0,
+    "name": "B-M7W19",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-07-07T06:55:37Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
