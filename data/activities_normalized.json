@@ -17399,11 +17399,24 @@
     "elevation_gain": 0.0,
     "id": "19347062135",
     "moving_time": 13284.0,
-    "name": "Morning Weight Training",
+    "name": "D-M7W20",
     "raw_activity_type": "WeightTraining",
     "raw_type": "WeightTraining",
     "start_date_local": "2026-07-17T07:17:44Z",
     "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-18",
+    "distance": 162733.0,
+    "elevation_gain": 1185.0,
+    "id": "19362559193",
+    "moving_time": 20579.0,
+    "name": "Con sfiga finale",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-18T06:53:07Z",
+    "type": "Ride",
     "year": 2026
   }
 ]
