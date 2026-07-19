@@ -17412,10 +17412,23 @@
     "elevation_gain": 1185.0,
     "id": "19362559193",
     "moving_time": 20579.0,
-    "name": "Con sfiga finale",
+    "name": "38 con sfiga finale",
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
     "start_date_local": "2026-07-18T06:53:07Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-19",
+    "distance": 100569.0,
+    "elevation_gain": 854.0,
+    "id": "19373935001",
+    "moving_time": 13519.0,
+    "name": "39",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-19T07:53:42Z",
     "type": "Ride",
     "year": 2026
   }
