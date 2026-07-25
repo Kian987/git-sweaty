@@ -17496,5 +17496,18 @@
     "start_date_local": "2026-07-24T07:10:45Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-07-25",
+    "distance": 100291.0,
+    "elevation_gain": 880.0,
+    "id": "19457026076",
+    "moving_time": 13428.0,
+    "name": "45 - Ritorno dietro Ironman \ud83c\udfce\ufe0f",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-25T07:57:22Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
