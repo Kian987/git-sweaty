@@ -9519,6 +9519,13 @@
       "subtype": "WeightTraining",
       "type": "WeightTraining",
       "year": 2026
+    },
+    {
+      "date": "2026-08-08",
+      "hour": 6,
+      "subtype": "Ride",
+      "type": "Ride",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -19523,6 +19530,15 @@
           "distance": 60101.2,
           "elevation_gain": 228.0,
           "moving_time": 8058.0
+        },
+        "2026-08-08": {
+          "activity_ids": [
+            "19652645550"
+          ],
+          "count": 1,
+          "distance": 131427.0,
+          "elevation_gain": 1292.0,
+          "moving_time": 17409.0
         }
       },
       "Run": {
@@ -20557,7 +20573,7 @@
       }
     }
   },
-  "generated_at": "2026-08-07T15:46:27.983659+00:00",
+  "generated_at": "2026-08-08T15:21:48.178798+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/79981412",
   "repo": "Kian987/git-sweaty",
