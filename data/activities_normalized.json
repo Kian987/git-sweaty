@@ -18120,5 +18120,18 @@
     "start_date_local": "2026-09-10T06:46:01Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-09-11",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20127846508",
+    "moving_time": 10136.0,
+    "name": "D-M7W26 -  1RM stacco 180 kg \ud83e\udd72\u2714\ufe0f",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-09-11T07:10:08Z",
+    "type": "Workout",
+    "year": 2026
   }
 ]
