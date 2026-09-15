@@ -18172,5 +18172,18 @@
     "start_date_local": "2026-09-14T06:52:32Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-09-15",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20180799452",
+    "moving_time": 6859.0,
+    "name": "Recupero 2",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-09-15T07:02:06Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
