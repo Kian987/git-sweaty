@@ -18185,5 +18185,31 @@
     "start_date_local": "2026-09-15T07:02:06Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-09-16",
+    "distance": 21040.0,
+    "elevation_gain": 0.0,
+    "id": "20205776632",
+    "moving_time": 2493.0,
+    "name": "Ciclismo indoor",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-09-16T22:10:00Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-17",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20210303305",
+    "moving_time": 6408.0,
+    "name": "Recupero 3",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-09-17T07:19:20Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
