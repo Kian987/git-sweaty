@@ -18406,5 +18406,18 @@
     "start_date_local": "2026-10-02T07:10:32Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-10-03",
+    "distance": 72906.6,
+    "elevation_gain": 397.0,
+    "id": "20430298495",
+    "moving_time": 11148.0,
+    "name": "115 e catena rotta",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-10-03T08:14:05Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
