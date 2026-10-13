@@ -18536,5 +18536,18 @@
     "start_date_local": "2026-10-12T23:20:15Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-10-13",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20569597646",
+    "moving_time": 2345.0,
+    "name": "Bon, settimana di scarico",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-10-13T17:20:55Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
