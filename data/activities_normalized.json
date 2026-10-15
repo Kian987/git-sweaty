@@ -18549,5 +18549,31 @@
     "start_date_local": "2026-10-13T17:20:55Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-10-14",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20586815223",
+    "moving_time": 5178.0,
+    "name": "Mobilit\u00e0",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-10-14T20:06:25Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-15",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20598940723",
+    "moving_time": 1579.0,
+    "name": "Mobilit\u00e0",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-10-15T19:16:31Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
