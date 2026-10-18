@@ -18601,5 +18601,31 @@
     "start_date_local": "2026-10-17T08:22:44Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-10-18",
+    "distance": 103007.0,
+    "elevation_gain": 892.0,
+    "id": "20632802249",
+    "moving_time": 13148.0,
+    "name": "130",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-10-18T08:19:04Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-18",
+    "distance": 52264.6,
+    "elevation_gain": 83.0,
+    "id": "20637969286",
+    "moving_time": 7772.0,
+    "name": "Pedalata pomeridiana",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-10-18T15:53:08Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
