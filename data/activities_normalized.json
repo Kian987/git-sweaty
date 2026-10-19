@@ -18621,11 +18621,24 @@
     "elevation_gain": 83.0,
     "id": "20637969286",
     "moving_time": 7772.0,
-    "name": "Pedalata pomeridiana",
+    "name": "Per una la sfogliatella a Silvi...",
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
     "start_date_local": "2026-10-18T15:53:08Z",
     "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-19",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20643898303",
+    "moving_time": 10380.0,
+    "name": "A-M7W28",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-10-19T07:03:32Z",
+    "type": "WeightTraining",
     "year": 2026
   }
 ]
