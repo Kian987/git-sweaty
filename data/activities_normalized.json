@@ -18640,5 +18640,31 @@
     "start_date_local": "2026-10-19T07:03:32Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-10-20",
+    "distance": 103840.0,
+    "elevation_gain": 901.0,
+    "id": "20658897215",
+    "moving_time": 14440.0,
+    "name": "132",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-10-20T08:17:28Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-20",
+    "distance": 10972.1,
+    "elevation_gain": 41.0,
+    "id": "20662215936",
+    "moving_time": 1842.0,
+    "name": "Pedalata pomeridiana",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-10-20T14:48:25Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
