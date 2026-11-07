@@ -18887,5 +18887,18 @@
     "start_date_local": "2026-11-06T07:12:53Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-11-07",
+    "distance": 100458.0,
+    "elevation_gain": 917.0,
+    "id": "20894268066",
+    "moving_time": 14596.0,
+    "name": "150 di fila \ud83c\udfc6",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-11-07T08:39:24Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
