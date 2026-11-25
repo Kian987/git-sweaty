@@ -19121,5 +19121,18 @@
     "start_date_local": "2026-11-24T11:21:17Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-11-25",
+    "distance": 61100.9,
+    "elevation_gain": 253.0,
+    "id": "21117010404",
+    "moving_time": 7992.0,
+    "name": "168",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-11-25T07:15:01Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
