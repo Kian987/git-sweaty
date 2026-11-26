@@ -19134,5 +19134,18 @@
     "start_date_local": "2026-11-25T07:15:01Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-11-26",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "21128760855",
+    "moving_time": 9438.0,
+    "name": "C-M7W33",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-11-26T07:13:24Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
